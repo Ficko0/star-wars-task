@@ -1,7 +1,11 @@
-export default function Error({ error }: { error: string }) {
+type ErrorProps = {
+  message: string;
+};
+
+export default function Error({ message }: ErrorProps) {
   return (
-    <div className="bg-red-200 flex items-center justify-center h-screen py-2 px-4 rounded-lg">
-      <h1 className="font-bold text-3xl text-red-600">Error: {error}</h1>
+    <div className="bg-red-200 text-center py-5 px7 rounded-lg mx-10 my-10">
+      <h1 className="font-bold text-2xl text-red-500">Error: {message}</h1>
     </div>
   );
 }

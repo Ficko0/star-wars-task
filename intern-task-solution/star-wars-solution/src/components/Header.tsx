@@ -1,9 +1,7 @@
 export default function Header() {
   return (
-    <header className="bg-gray-700 py-6">
-      <h1 className="text-center font-semibold text-2xl text-white hover:cursor-default">
-        Star Wars Task
-      </h1>
+    <header className="flex justify-center items-center py-6 bg-gray-500 my-5 mx-10 rounded-xl">
+      <h1 className="font-bold text-2xl">Star Wars Task</h1>
     </header>
   );
 }

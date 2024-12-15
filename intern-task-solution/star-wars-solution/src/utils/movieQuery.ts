@@ -4,6 +4,7 @@ export const GET_MOVIES = gql`
   query AllFilms {
     allFilms {
       films {
+        id
         episodeID
         title
         director

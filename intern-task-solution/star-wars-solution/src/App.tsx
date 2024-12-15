@@ -1,11 +1,9 @@
-import Header from "./components/Header";
-import Wrapper from "./components/Wrapper";
+import MovieList from "./components/MovieList";
 
 export default function App() {
   return (
     <>
-      <Header />
-      <Wrapper />
+      <MovieList />
     </>
   );
 }
