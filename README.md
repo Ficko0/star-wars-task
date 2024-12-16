@@ -8,7 +8,7 @@
 2. Once inside, in the terminal run **npm i**
 3. After installing the packages, run **npm run dev**
 
-[!NOTE]
+##Note!
 At the time of publishing this and sending this task, the API didn't work.
 Some of the components might be out of place since I couldn't see the components.
 
