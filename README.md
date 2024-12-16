@@ -1,6 +1,6 @@
 # Star Wars Task
 
-### This is my solution to the task I was given!
+### This is my solution to the task at hand!
 
 ## To run the project, follow these steps bellow :)
 
