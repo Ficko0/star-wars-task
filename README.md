@@ -19,4 +19,4 @@ The problem with the API when using the Apollo Studio was as follows:
   "message": "Failed to fetch"
 }
 
-The API seems to have an issue which hasn't been resolved the entire Sunday.
+The API seems to have an issue which hasn't been resolved (yet).
